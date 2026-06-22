@@ -2,7 +2,9 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I'm an HR professional turned AI product builder. I do not come from a traditional engineering background, and I do not position myself as a hand-coding developer. My work is to spot real workflow problems, shape product ideas, define use cases, test the results, and use AI coding models as implementation partners.
+**Every product here is written by AI. My job is to think hard, push ideas forward, and keep iterating.**
+
+I'm an HR professional turned AI product builder. I do not come from a traditional engineering background, and I do not position myself as a hand-coding developer. I notice real-world problems, get ideas, shape use cases, test the results, then hand the work to AI coding models. AI is my implementation partner.
 
 For me, vibe coding is not about skipping product thinking. It is about turning clear judgment, practical needs, and fast iteration into small tools that people can actually use.
 
