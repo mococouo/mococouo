@@ -1,12 +1,12 @@
-# Hi, I'm Dong
+# Hi, I'm Sansui
 
 **English** · [中文](README.zh-CN.md)
 
-**Every product here is written by AI. My job is to think hard, push ideas forward, and keep iterating.**
+From HR to AI products. Every product is written by AI; my job is to think.
 
-I'm an HR professional turned AI product builder. I do not come from a traditional engineering background, and I do not position myself as a hand-coding developer. I notice real-world problems, get ideas, shape use cases, test the results, then hand the work to AI coding models. AI is my implementation partner.
+For me, moving from HR to AI products means using vibe coding to do product thinking, turning clear judgment, practical needs, and fast iteration into products that are actually usable.
 
-For me, vibe coding is not about skipping product thinking. It is about turning clear judgment, practical needs, and fast iteration into small tools that people can actually use.
+I am not an engineer in the traditional sense, and I do not define myself as a hand-coding developer. I notice real-world problems, get ideas, find scenarios, test the results, then hand the work to AI coding models. AI is my implementation partner.
 
 ## What I Build
 
