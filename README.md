@@ -20,13 +20,25 @@ I focus on lightweight, local-first utilities for everyday document, file, prese
 
 ## Projects
 
+### Presentation & Knowledge Tools
+
 | Project | What it does |
 | --- | --- |
 | [Presentation-Prompter](https://github.com/mococouo/Presentation-Prompter) | Lightweight multilingual desktop teleprompter for PowerPoint, Keynote, Google Slides, and screen sharing. |
+| [PasteVault](https://github.com/mococouo/PasteVault) | Desktop TXT/Markdown collector with local encryption, content extraction, classification, and search. |
+
+### File & Archive Tools
+
+| Project | What it does |
+| --- | --- |
 | [file-organizer](https://github.com/mococouo/file-organizer) | Multilingual Python file organizer with GUI and CLI support. |
 | [unicode-batch-renamer](https://github.com/mococouo/unicode-batch-renamer) | No-dependency Python GUI/CLI for safely batch-renaming image and video files with Unicode templates. |
 | [archive-collector](https://github.com/mococouo/archive-collector) | Collects ZIP, RAR, 7z, and tar archives into one folder with a simple multilingual GUI/CLI. |
-| [PasteVault](https://github.com/mococouo/PasteVault) | Desktop TXT/Markdown collector with local encryption, content extraction, classification, and search. |
+
+### Markdown & Data Tools
+
+| Project | What it does |
+| --- | --- |
 | [2markdown](https://github.com/mococouo/2markdown) | Batch converts common files into Obsidian-ready Markdown notes. |
 | [markdown2txt](https://github.com/mococouo/markdown2txt) | Converts Markdown to TXT offline, with batch processing and multilingual UI. |
 | [2json](https://github.com/mococouo/2json) | Converts CSV files to JSON locally in the browser, with multilingual UI and encoding support. |
