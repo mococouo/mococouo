@@ -1,42 +1,42 @@
-# Hi, I'm Dong 👋
+# Hi, I'm Dong
 
 **English** · [中文](README.zh-CN.md)
 
-I am an HR person turned AI geek. I do not come from a traditional engineering background, and I still do not write code myself. What I do is produce ideas, define use cases, shape workflows, and use AI models as builders.
+I'm an HR professional turned AI product builder. I do not come from a traditional engineering background, and I do not position myself as a hand-coding developer. My work is to spot real workflow problems, shape product ideas, define use cases, test the results, and use AI coding models as implementation partners.
 
-For me, vibe coding is a way to turn product instincts into working tools: I bring the problem, direction, taste, and iteration; the model writes the code and helps ship the product.
+For me, vibe coding is not about skipping product thinking. It is about turning clear judgment, practical needs, and fast iteration into small tools that people can actually use.
 
----
+## What I Build
 
-## ✨ Featured projects
+I focus on lightweight, local-first utilities for everyday file and knowledge workflows:
 
-Small tools I imagined, shaped, and built with coding models.
+- File conversion tools
+- Markdown and Obsidian workflows
+- CSV, JSON, and text cleanup
+- Multilingual desktop or browser-based utilities
+- Practical software for non-engineers
 
-📝 [**2markdown**](https://github.com/mococouo/2markdown) - Batch convert common files into Obsidian-ready Markdown notes.
+## Featured Projects
 
-🧩 [**2json**](https://github.com/mococouo/2json) - Convert CSV files to JSON locally in your browser, with multilingual UI and encoding support.
+| Project | What it does |
+| --- | --- |
+| [2markdown](https://github.com/mococouo/2markdown) | Batch converts common files into Obsidian-ready Markdown notes. |
+| [2json](https://github.com/mococouo/2json) | Converts CSV files to JSON locally in the browser, with multilingual UI and encoding support. |
+| [markdown2txt](https://github.com/mococouo/markdown2txt) | Converts Markdown to TXT offline, with batch processing and multilingual UI. |
 
-📄 [**markdown2txt**](https://github.com/mococouo/markdown2txt) - Offline Markdown to TXT converter with batch processing and multilingual UI.
+## How I Work
 
----
+- Start from real workflow friction, not abstract feature lists
+- Turn rough ideas into clear product prompts, user flows, and acceptance criteria
+- Use AI coding models to build, debug, package, and improve the software
+- Test the result by using it in realistic scenarios
+- Keep the tool simple enough for people who just want the job done
 
-## 🧭 How I build
+## Current Interests
 
-- Start from everyday workflow pain points
-- Turn rough ideas into clear product prompts and user flows
-- Let AI coding models handle implementation
-- Test, judge, and iterate until the tool feels useful
-- Keep the product simple enough for real people to use
+Vibe coding, AI-assisted product building, local-first tools, Markdown workflows, file conversion, data cleanup, multilingual interfaces, and software that helps non-engineers do practical work.
 
----
-
-## 🔭 Current interests
-
-Vibe coding, AI-assisted product building, local-first tools, file conversion, Markdown workflows, data cleanup, multilingual interfaces, and practical software for non-engineers.
-
----
-
-## 🔗 Connect
+## Connect
 
 - GitHub: [@mococouo](https://github.com/mococouo)
 - Profile: HR gone AI Geek, turning ideas into tools with AI models
