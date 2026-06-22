@@ -58,4 +58,4 @@ Vibe coding、AI 辅助产品构建、本地优先工具、Markdown 工作流、
 ## 联系
 
 - GitHub: [@mococouo](https://github.com/mococouo)
-- 简介：HR gone AI Geek，用 AI 模型把想法变成工具
+- 简介：HR gone AI Geek，用 AI 模型把想法变成现实

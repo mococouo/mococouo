@@ -58,4 +58,4 @@ Vibe coding, AI-assisted product building, local-first tools, Markdown workflows
 ## Connect
 
 - GitHub: [@mococouo](https://github.com/mococouo)
-- Profile: HR gone AI Geek, turning ideas into tools with AI models
+- Profile: HR gone AI Geek, turning ideas into reality with AI models
