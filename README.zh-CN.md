@@ -1,41 +1,42 @@
-# 你好，我是 Dong
+# 你好，我是 Dong 👋
 
 **中文** · [English](README.md)
 
-我是一名从 HR 转向 AI 工具实践的人。现在主要做一些小而实用、尽量本地运行的工具，帮助日常处理文件、笔记和数据的人减少重复工作。
+我是一名从 HR 转向 AI 极客的人。我不是传统意义上的程序员，也不会自己写代码。我的角色是提出创意、发现需求、设计流程、判断产品是否好用，然后把实现交给 AI 模型完成。
 
-我目前关注的是：借助 AI 编程助手，把杂乱的文档、表格和文本转换成更干净、更容易复用的格式。我喜欢简单、双语、能真正放进工作流里的产品。
-
----
-
-## 重点项目
-
-这些项目主要围绕文件转换、内容清洗和常用格式之间的信息流转。
-
-[**2markdown**](https://github.com/mococouo/2markdown) - 批量把常见文件转换成适合 Obsidian 使用的 Markdown 笔记。
-
-[**2json**](https://github.com/mococouo/2json) - 在浏览器本地把 CSV 转成 JSON，支持多语言界面和编码处理。
-
-[**markdown2txt**](https://github.com/mococouo/markdown2txt) - 离线 Markdown 转 TXT 工具，支持批量处理和多语言界面。
+对我来说，vibe coding 是一种把想法变成工具的方式：我负责问题、方向、审美和迭代，模型负责写代码和落地产品。
 
 ---
 
-## 我正在构建的方向
+## ✨ 重点项目
 
-- 尽量本地优先的工具，减少文件上传和隐私顾虑
-- 面向笔记、数据和知识整理流程的简单转换器
-- 中英文双语界面，让工具更容易被不同用户使用
-- 从真实工作痛点出发，用 AI 辅助把想法做成可用产品
+这些项目是我提出想法、梳理需求，并借助编程模型做出来的小工具。
 
----
+📝 [**2markdown**](https://github.com/mococouo/2markdown) - 批量把常见文件转换成适合 Obsidian 使用的 Markdown 笔记。
 
-## 技术兴趣
+🧩 [**2json**](https://github.com/mococouo/2json) - 在浏览器本地把 CSV 转成 JSON，支持多语言界面和编码处理。
 
-Python、JavaScript、浏览器工具、文件转换、Markdown 工作流、数据清洗、多语言产品设计，以及 AI 编程助手。
+📄 [**markdown2txt**](https://github.com/mococouo/markdown2txt) - 离线 Markdown 转 TXT 工具，支持批量处理和多语言界面。
 
 ---
 
-## 联系
+## 🧭 我如何构建
+
+- 从日常工作流里的真实痛点出发
+- 把模糊想法整理成清晰的产品提示词和用户流程
+- 让 AI 编程模型负责具体实现
+- 通过试用、判断和反馈不断迭代
+- 保持工具简单，让真实用户能直接上手
+
+---
+
+## 🔭 当前兴趣
+
+Vibe coding、AI 辅助产品构建、本地优先工具、文件转换、Markdown 工作流、数据清洗、多语言界面，以及给非工程师使用的实用软件。
+
+---
+
+## 🔗 联系
 
 - GitHub: [@mococouo](https://github.com/mococouo)
-- 简介：HR gone AI Geek，从中国出发，面向全球用户做实用工具
+- 简介：HR gone AI Geek，用 AI 模型把想法变成工具
