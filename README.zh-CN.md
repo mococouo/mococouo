@@ -8,21 +8,26 @@
 
 ## 我在做什么
 
-我关注轻量、本地优先、服务于日常文件和知识工作流的小工具：
+我关注轻量、本地优先、服务于日常文档、文件、演示和知识工作流的小工具：
 
-- 文件转换工具
-- Markdown 与 Obsidian 工作流
-- CSV、JSON 和文本清洗
+- 文件转换和批处理工具
+- Markdown、Obsidian 和文本工作流
+- CSV、JSON、压缩包和文件名清理
 - 多语言桌面端或浏览器工具
 - 给非工程师使用的实用软件
 
-## 重点项目
+## 项目
 
 | 项目 | 说明 |
 | --- | --- |
+| [Presentation-Prompter](https://github.com/mococouo/Presentation-Prompter) | 轻量多语言桌面提词器，适用于 PowerPoint、Keynote、Google Slides 和屏幕共享。 |
+| [file-organizer](https://github.com/mococouo/file-organizer) | 带 GUI 和 CLI 的多语言 Python 文件整理工具。 |
+| [unicode-batch-renamer](https://github.com/mococouo/unicode-batch-renamer) | 无依赖 Python GUI/CLI，支持用 Unicode 模板安全批量重命名图片和视频文件。 |
+| [archive-collector](https://github.com/mococouo/archive-collector) | 把 ZIP、RAR、7z 和 tar 压缩包收集到一个文件夹，提供简单的多语言 GUI/CLI。 |
+| [PasteVault](https://github.com/mococouo/PasteVault) | 桌面 TXT/Markdown 收集器，支持本地加密、内容提取、分类和搜索。 |
 | [2markdown](https://github.com/mococouo/2markdown) | 批量把常见文件转换成适合 Obsidian 使用的 Markdown 笔记。 |
-| [2json](https://github.com/mococouo/2json) | 在浏览器本地把 CSV 转成 JSON，支持多语言界面和编码处理。 |
 | [markdown2txt](https://github.com/mococouo/markdown2txt) | 离线把 Markdown 转成 TXT，支持批量处理和多语言界面。 |
+| [2json](https://github.com/mococouo/2json) | 在浏览器本地把 CSV 转成 JSON，支持多语言界面和编码处理。 |
 
 ## 我的工作方式
 

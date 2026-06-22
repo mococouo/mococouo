@@ -8,21 +8,26 @@ For me, vibe coding is not about skipping product thinking. It is about turning 
 
 ## What I Build
 
-I focus on lightweight, local-first utilities for everyday file and knowledge workflows:
+I focus on lightweight, local-first utilities for everyday document, file, presentation, and knowledge workflows:
 
-- File conversion tools
-- Markdown and Obsidian workflows
-- CSV, JSON, and text cleanup
+- File conversion and batch processing tools
+- Markdown, Obsidian, and text workflows
+- CSV, JSON, archive, and filename cleanup
 - Multilingual desktop or browser-based utilities
 - Practical software for non-engineers
 
-## Featured Projects
+## Projects
 
 | Project | What it does |
 | --- | --- |
+| [Presentation-Prompter](https://github.com/mococouo/Presentation-Prompter) | Lightweight multilingual desktop teleprompter for PowerPoint, Keynote, Google Slides, and screen sharing. |
+| [file-organizer](https://github.com/mococouo/file-organizer) | Multilingual Python file organizer with GUI and CLI support. |
+| [unicode-batch-renamer](https://github.com/mococouo/unicode-batch-renamer) | No-dependency Python GUI/CLI for safely batch-renaming image and video files with Unicode templates. |
+| [archive-collector](https://github.com/mococouo/archive-collector) | Collects ZIP, RAR, 7z, and tar archives into one folder with a simple multilingual GUI/CLI. |
+| [PasteVault](https://github.com/mococouo/PasteVault) | Desktop TXT/Markdown collector with local encryption, content extraction, classification, and search. |
 | [2markdown](https://github.com/mococouo/2markdown) | Batch converts common files into Obsidian-ready Markdown notes. |
-| [2json](https://github.com/mococouo/2json) | Converts CSV files to JSON locally in the browser, with multilingual UI and encoding support. |
 | [markdown2txt](https://github.com/mococouo/markdown2txt) | Converts Markdown to TXT offline, with batch processing and multilingual UI. |
+| [2json](https://github.com/mococouo/2json) | Converts CSV files to JSON locally in the browser, with multilingual UI and encoding support. |
 
 ## How I Work
 
